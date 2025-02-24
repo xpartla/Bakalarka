@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+pandasql
+scikit-learn
+scikit-optimize
+matplotlib
+seaborn
+pydot
+jupyterlab
+notebook
+wandb
+tensorflow
+keras
