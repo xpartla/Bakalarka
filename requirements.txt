@@ -12,3 +12,4 @@ notebook
 wandb
 tensorflow
 keras
+lightgbm
