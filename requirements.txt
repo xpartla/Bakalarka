@@ -1,15 +1,10 @@
 numpy
 scipy
 pandas
-pandasql
 scikit-learn
-scikit-optimize
+imbalanced-learn
 matplotlib
 seaborn
-pydot
 jupyterlab
 notebook
-wandb
-tensorflow
-keras
 lightgbm
